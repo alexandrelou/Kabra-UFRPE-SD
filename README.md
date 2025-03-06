@@ -49,6 +49,6 @@
 
 :pushpin: O administrador pode cadastrar, remover e alterar documentos do catálogo de processos
 
-## Desenvolvedores :octocat:
+## Desenvolvedores 
 
 Damaris Rodrigues, Millena Reis, Ilana Brochardt e José Alexandre
