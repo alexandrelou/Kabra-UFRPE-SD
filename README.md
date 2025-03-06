@@ -23,8 +23,6 @@
 
 3. Quais serviços cada usuário pode executar
 
-   - <br />
-   - <br />
    -
 
 ## Exemplo de telas
